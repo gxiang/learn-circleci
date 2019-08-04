@@ -1,6 +1,6 @@
 {
     "name": "gxiang/learn-circleci-php",
     "require": {
-        
+        "monolog/monolog": "1.0.*"
     }
 }
